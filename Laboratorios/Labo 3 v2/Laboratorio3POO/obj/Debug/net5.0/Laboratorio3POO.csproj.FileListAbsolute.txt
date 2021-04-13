@@ -1,0 +1,16 @@
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\bin\Debug\net5.0\Laboratorio3POO.exe
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\bin\Debug\net5.0\Laboratorio3POO.deps.json
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\bin\Debug\net5.0\Laboratorio3POO.runtimeconfig.json
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\bin\Debug\net5.0\Laboratorio3POO.runtimeconfig.dev.json
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\bin\Debug\net5.0\Laboratorio3POO.dll
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\bin\Debug\net5.0\ref\Laboratorio3POO.dll
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\bin\Debug\net5.0\Laboratorio3POO.pdb
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\obj\Debug\net5.0\Laboratorio3POO.csprojAssemblyReference.cache
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\obj\Debug\net5.0\Laboratorio3POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\obj\Debug\net5.0\Laboratorio3POO.AssemblyInfoInputs.cache
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\obj\Debug\net5.0\Laboratorio3POO.AssemblyInfo.cs
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\obj\Debug\net5.0\Laboratorio3POO.csproj.CoreCompileInputs.cache
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\obj\Debug\net5.0\Laboratorio3POO.dll
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\obj\Debug\net5.0\ref\Laboratorio3POO.dll
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\obj\Debug\net5.0\Laboratorio3POO.pdb
+D:\RiderProjects\Laboratorio3POO\Laboratorio3POO\obj\Debug\net5.0\Laboratorio3POO.genruntimeconfig.cache

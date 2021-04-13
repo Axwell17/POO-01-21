@@ -1,0 +1,16 @@
+D:\RiderProjects\Labo03\Labo03\bin\Debug\net5.0\Labo03.exe
+D:\RiderProjects\Labo03\Labo03\bin\Debug\net5.0\Labo03.deps.json
+D:\RiderProjects\Labo03\Labo03\bin\Debug\net5.0\Labo03.runtimeconfig.json
+D:\RiderProjects\Labo03\Labo03\bin\Debug\net5.0\Labo03.runtimeconfig.dev.json
+D:\RiderProjects\Labo03\Labo03\bin\Debug\net5.0\Labo03.dll
+D:\RiderProjects\Labo03\Labo03\bin\Debug\net5.0\ref\Labo03.dll
+D:\RiderProjects\Labo03\Labo03\bin\Debug\net5.0\Labo03.pdb
+D:\RiderProjects\Labo03\Labo03\obj\Debug\net5.0\Labo03.csprojAssemblyReference.cache
+D:\RiderProjects\Labo03\Labo03\obj\Debug\net5.0\Labo03.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\Labo03\Labo03\obj\Debug\net5.0\Labo03.AssemblyInfoInputs.cache
+D:\RiderProjects\Labo03\Labo03\obj\Debug\net5.0\Labo03.AssemblyInfo.cs
+D:\RiderProjects\Labo03\Labo03\obj\Debug\net5.0\Labo03.csproj.CoreCompileInputs.cache
+D:\RiderProjects\Labo03\Labo03\obj\Debug\net5.0\Labo03.dll
+D:\RiderProjects\Labo03\Labo03\obj\Debug\net5.0\ref\Labo03.dll
+D:\RiderProjects\Labo03\Labo03\obj\Debug\net5.0\Labo03.pdb
+D:\RiderProjects\Labo03\Labo03\obj\Debug\net5.0\Labo03.genruntimeconfig.cache
